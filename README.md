@@ -1,35 +1,35 @@
-# Calculator Era - Privacy Policy & Terms of Service
+# Falculator - Privacy Policy & Terms of Service
 
-> 📄 **Official legal documents for Calculator Era iOS app**  
+> 📄 **Official legal documents for Falculator iOS app**  
 > 🇺🇸 **Published for US App Store compliance**
 
 ---
 
-## 📱 About Calculator Era
+## 📱 About Falculator
 
-**Calculator Era** is a powerful scientific calculator app for iOS, designed for the US market with:
+**Falculator** is a powerful scientific calculator app for iOS, designed for the US market with:
 - ✨ Advanced mathematical calculations
 - 📊 Comprehensive calculation history
 - 🔢 Unit conversions
 - 🎨 Beautiful, modern interface
 - 🚀 Fast and reliable performance
 
-**Download**: [Calculator Era on App Store](https://apps.apple.com/app/id6739860116)
+**Download**: [Falculator on App Store](https://apps.apple.com/app/id6739860116)
 
 ---
 
 ## 📄 Legal Documents
 
-This repository hosts the privacy policy and terms of service for Calculator Era:
+This repository hosts the privacy policy and terms of service for Falculator:
 
 ### 🔒 Privacy Policy
 - **Live URL**: https://gutugut.github.io/calculatorera-policies/privacy.html
-- **Last Updated**: November 23, 2025
+- **Last Updated**: December 23, 2025
 - **Compliance**: GDPR, CCPA, COPPA, App Store Guidelines
 
 ### 📋 Terms of Service
 - **Live URL**: https://gutugut.github.io/calculatorera-policies/terms.html
-- **Last Updated**: November 23, 2025
+- **Last Updated**: December 23, 2025
 - **Coverage**: License, purchases, liability, Apple App Store terms
 
 ### 🏠 Homepage
@@ -40,7 +40,7 @@ This repository hosts the privacy policy and terms of service for Calculator Era
 
 ## 🔐 Privacy Commitment
 
-Calculator Era is committed to protecting user privacy:
+Falculator is committed to protecting user privacy:
 
 ### ✅ What We Do
 - Collect anonymous usage data (with your consent)
@@ -64,7 +64,7 @@ Calculator Era is committed to protecting user privacy:
 
 ## 📊 Third-Party Services
 
-Calculator Era uses the following trusted services:
+Falculator uses the following trusted services:
 
 | Service | Purpose | Privacy Policy |
 |---------|---------|----------------|
@@ -80,7 +80,7 @@ All services comply with Apple's App Store guidelines and US privacy laws includ
 
 ### Support & Questions
 - **Email**: enbilex@gmail.com
-- **In-App**: Use the feedback feature in Calculator Era
+- **In-App**: Use the feedback feature in Falculator
 - **Response Time**: Within 24-48 hours (US business hours)
 
 ### Privacy Requests
@@ -121,11 +121,11 @@ https://gutugut.github.io/calculatorera-policies/privacy.html
 
 ---
 
-**Last Updated**: November 23, 2025  
+**Last Updated**: December 23, 2025  
 **Repository**: calculatorera-policies  
 **Contact**: enbilex@gmail.com  
 **Region**: United States 🇺🇸
 
 ---
 
-*Thank you for using Calculator Era! 🧮✨*
+*Thank you for using Falculator! 🧮✨*
